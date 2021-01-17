@@ -15,6 +15,7 @@ Para não ser simplesmente um "Copiar e Colar", adicionei alguns novos recursos:
 * Não permito o redimensionamento da janela;
 * Funcionalidade de mudar o site que está sendo exibido (ainda está estático), utilizando o atalho Ctrl + m;
 * Mudança de posicionamento da janela na tela em que está ativada (4 posições), utilizando o atalho Ctrl + n;
+* Instalação do pacote de geração de executável;
 
 Como próximos passos, pretendo:
 * Parametrizar o site que o usuário pretende navegar;

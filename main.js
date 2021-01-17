@@ -18,8 +18,8 @@ function createWindow () {
     webPreferences: {
       nodeIntegration: true
     },
-    x: pos_x,
-    y: pos_y,
+    x: 0,
+    y: 0,
     resizable: false
   })
 
